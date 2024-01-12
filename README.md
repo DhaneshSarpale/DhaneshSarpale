@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanesh Sarpale</h1>
 <h3 align="left"> <p>
         Experienced Full Stack Data Engineer with a successful track record spanning 5 years, skilled in orchestrating robust data solutions across various industries. Managed full stack data engineering projects, demonstrating a comprehensive understanding of end-to-end processes from data ingestion to deployment. Led data engineering project management, ensuring successful planning, execution, and delivery of projects within defined timelines and resource constraints. Expertise includes orchestrating seamless processes for deployment into production and leveraging data consumption for dashboard creation.
-
     </p>
     <p>
         Having extensively worked with the Azure and AWS ecosystems, I possess in-depth knowledge of their diverse tools and services, enabling me to design robust data solutions that seamlessly integrate with cloud technologies.
